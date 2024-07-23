@@ -1,0 +1,13 @@
+td{
+    background-color: aqua;   
+}
+
+td:hover{
+    
+    transition: 2s ease-in-out linear;
+    transform: scale(1.4);
+}
+
+.asfar{
+    visibility: hidden;
+}
